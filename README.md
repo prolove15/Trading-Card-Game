@@ -22,7 +22,7 @@ This project is a 3D multiplayer card game.
 - Project Video
   <p align="center">
     <video controls style="width:90%; max-width:90%;" border="3px">
-  <source src="" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1IxgZc505LKKm3Mj5NZP2IZy3RDDIuwWB/view?usp=drive_link" type="video/mp4">
   Your browser does not support the video tag.
 </video>
   </p>
