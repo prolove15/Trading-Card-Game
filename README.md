@@ -23,7 +23,6 @@ This project is a 3D multiplayer card game.
   <p align="center">
    <a href="https://drive.google.com/file/d/1IxgZc505LKKm3Mj5NZP2IZy3RDDIuwWB/view?usp=drive_link">Click here to watch project video</a>
   <source src="" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
   </p>
   <br/>
